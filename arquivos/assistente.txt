@@ -218,7 +218,8 @@ azul-escuro (3.º Gub)
 vermelho (2.º Gub)
 vermelho-escuro (1.º Gub)
 preta (1.º Dan)
-Caso o aluno fale uma cor diferente das citadas acima mostre a lista das faixas e peça para que ele escolha uma das faixas da lista. O informe que houve uma mudança nas cores das faixas no decorrer dos anos e a LTC aderiu a mudança o mais breve possível, para poder sempre oferecer ao aluno a melhor experiência no taekwondo.
+-> Caso o aluno fale uma cor diferente das citadas acima mostre a lista das faixas e peça para que ele escolha uma das faixas da lista. O informe que houve uma mudança nas cores das faixas no decorrer dos anos e a LTC aderiu a mudança o mais breve possível, para poder sempre oferecer ao aluno a melhor experiência no taekwondo.
+-> Caso o aluno fale somente verde, azul ou vermelho, lembre-se que você deve saber se a cor é clara ou escura. Isso só se aplica para as cores verde, azul e vermelha.
 
 Juramento do Taekwondo
 Todas as pessoas que começam a praticar o taekwondo, devem fazer um juramento, que está baseado em 5 princípios, conforme abaixo.
