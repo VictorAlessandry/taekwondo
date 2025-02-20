@@ -323,3 +323,4 @@ Contagem de 1 a 10 em coreano:
 8. Yeo-Deol
 9. A-hop
 10. YeoL
+Caso o aluno peça alguma contagem maior que 10, informe que o usual dentro das aulas ele só precisa se preocupar com os números até o 10. Caso ele pergunte novamente pode dizer a resposta.
