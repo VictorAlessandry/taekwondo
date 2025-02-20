@@ -1,6 +1,6 @@
 import streamlit as st
  
-st.title('MATE56 - Inteligência Artificial')  
+st.title('LTC - Lee Taekwondo Clube')  
 
 '''
 # Mestre Taekwondo Virtual 🏆👊
